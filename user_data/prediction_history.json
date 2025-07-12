@@ -1,0 +1,340 @@
+{
+  "nandu": [
+    {
+      "user": "nandu",
+      "input": {
+        "Ship Mode": "0",
+        "Customer ID": "0",
+        "Segment": "0",
+        "Country": "0",
+        "City": "0",
+        "State": "0",
+        "Postal Code": "0.0",
+        "Region": "0",
+        "Product ID": "0",
+        "Category": "0",
+        "Sub-Category": "0",
+        "Product Name": "387",
+        "Quantity": "0.0",
+        "Order Month": "6",
+        "Month_sin": "0.0",
+        "Month_cos": "0.0",
+        "Order Year": "0.0",
+        "Shipping Delay": "0.0"
+      },
+      "sales": 448.87945556640625,
+      "demand": -19.225788116455078,
+      "timestamp": "2025-07-12T01:53:41.618546"
+    }
+  ],
+  "suhas": [
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 12:51:36",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 12:53:39",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 13:00:13",
+      "Sub-Category": "Chairs",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "448.06",
+      "Predicted Demand": "591.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 13:02:36",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 13:02:45",
+      "Sub-Category": "Chairs",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "448.06",
+      "Predicted Demand": "591.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 13:02:56",
+      "Sub-Category": "Chairs",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 3,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "721.05",
+      "Predicted Demand": "591.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 13:05:14",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 13:06:05",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 13:06:21",
+      "Sub-Category": "Accessories",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 3,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "710.88",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 13:06:27",
+      "Sub-Category": "Chairs",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 3,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "721.05",
+      "Predicted Demand": "591.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 13:06:43",
+      "Sub-Category": "Chairs",
+      "Product Name": "#10 Self-Seal White Envelopes",
+      "Quantity": 3,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "721.05",
+      "Predicted Demand": "591.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 13:10:37",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 20:43:38",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 20:43:58",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 20:56:36",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 20:58:41",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 21:05:18",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 21:13:42",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 21:17:16",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 21:28:16",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 21:32:32",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 22:00:33",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Timestamp": "2025-07-12 22:29:18",
+      "Sub-Category": "Bookcases",
+      "Product Name": "Bush Somerset Collection Bookcase",
+      "Quantity": 2,
+      "Order Date": "2017-11-08",
+      "Predicted Sales": "530.94",
+      "Predicted Demand": "9816.0"
+    },
+    {
+      "Timestamp": "2025-07-12 22:40:20",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Timestamp": "2025-07-12 22:47:24",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Timestamp": "2025-07-12 22:48:37",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 23:44:21",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 23:51:27",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 23:53:01",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    },
+    {
+      "Username": "suhas",
+      "Timestamp": "2025-07-12 23:56:06",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    }
+  ],
+  "honey": [
+    {
+      "Username": "honey",
+      "Timestamp": "2025-07-12 23:04:34",
+      "Sub-Category": "4",
+      "Product Name": "\"While you Were Out\" Message Book, One Form per Page",
+      "Quantity": 1,
+      "Order Date": "2025-07-12",
+      "Predicted Sales": "577.36",
+      "Predicted Demand": "-1.0"
+    }
+  ]
+}

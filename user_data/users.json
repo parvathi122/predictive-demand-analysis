@@ -1,0 +1,50 @@
+{
+  "": {
+    "password": ""
+  },
+  "nandu": {
+    "password": "nandu@123"
+  },
+  "nandini": {
+    "password": "nandni@12",
+    "phone": "9346565002",
+    "email": "sivaparvathigutti8@gmail.com"
+  },
+  "teju": {
+    "password": "teju@123",
+    "phone": "9346565002",
+    "email": ""
+  },
+  "tejuu": {
+    "password": "teju@1234",
+    "phone": "9346565002",
+    "email": ""
+  },
+  "maha": {
+    "password": "maha@123",
+    "phone": "",
+    "email": ""
+  },
+  "mahesh": {
+    "password": "mahesh@123",
+    "phone": null,
+    "email": null
+  },
+  "suhas": {
+    "password": "$2b$12$TgC49Z2nPhdJuV1g0txOcOaJEjymouxJTxdaQyDj/VTcBqON5vY6e",
+    "phone": "9876543210",
+    "email": "suhas@gmail.com",
+    "address": "chalasaninagar\nvijayawada"
+  },
+  "ram": {
+    "password": "ram@123",
+    "phone": null,
+    "email": null
+  },
+  "honey": {
+    "password": "1234",
+    "phone": null,
+    "email": null,
+    "address": ""
+  }
+}

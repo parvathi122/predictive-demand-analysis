@@ -1,6 +1,11 @@
 streamlit
 pandas
-scikit-learn
-joblib
 numpy
-matplotlib
+joblib
+scikit-learn
+bcrypt
+plotly
+fpdf
+streamlit-option-menu
+streamlit-lottie
+requests
